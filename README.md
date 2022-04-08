@@ -1,5 +1,6 @@
 # DashboardSprzedawcy
-Created with CodeSandbox - link 
+Created with CodeSandbox - link: https://codesandbox.io/s/mutable-sound-dashboard-0-2-forked-noiz4?file=/src/App.js <br />
+<br />
 Celem projektu jest stworzenie “Panelu Sprzedawcy” - strony będącej częścią portalu zakupowego, na której użytkownik może zobaczyć podsumowanie swojej sprzedaży.  
  
 ## Cechy portalu 
